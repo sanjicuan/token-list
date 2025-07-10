@@ -1,0 +1,11 @@
+{
+  "name": "Chill Guy Dog",
+  "symbol": "CHILLDOG",
+  "address": "3CszuJHunDgeoZnPsGVDN3nkAP3hGS1ukXvDEQx3abLd",
+  "decimals": 9,
+  "logoURI": "https://ipfs.io/ipfs/bafybeia4fqvlz2grcv33mfdypvebtgfgn4f4qhqc2lo4twnzoe6zq72ndu",
+  "extensions": {
+    "website": "https://chillguydog-landing-page.vercel.app",
+    "twitter": "https://x.com/guy_chill33483"
+  }
+}
